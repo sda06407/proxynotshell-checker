@@ -1,6 +1,9 @@
 # proxynotshell-checker
 proxynotshell check tool
 
+# Usage
+python3 proxynotshell_checker.py [url]
+
 # pre-install
 `pip3 install requests`
 
